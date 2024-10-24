@@ -29,17 +29,3 @@ So, here I am:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agfanpratama&show_icons=true&locale=en" alt="agfanpratama" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agfanpratama&" alt="agfanpratama" /></p>
-
-<div align="center">
-    <a href="valorant">
-        <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" target="_blank" />
-    </a>
-    <a href="https://www.linkedin.com/in/agfanherrupratama" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="https://www.instagram.com/agfanhendarsin" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-    </a>
-    <a href="https://open.spotify.com/user/31filxk3gdogoqj2fg6fid567c6u?si=52f064ab1bac46d7" target="_blank">
-        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" />
-    </a>
