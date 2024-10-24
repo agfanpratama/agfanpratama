@@ -19,3 +19,7 @@ So, here I am:
 <div align="center">
     <a href="valorant">
         <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://www.linkedin.com/in/agfanherrupratama" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
