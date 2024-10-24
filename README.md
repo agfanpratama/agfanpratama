@@ -22,7 +22,7 @@ So, here I am:
 <a href="https://instagram.com/agfanhendarsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agfanhendarsin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/agfanhph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agfanhph" height="30" width="40" /></a>
 <a href="https://discord.gg/875749002719662121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="875749002719662121" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/31filxk3gdogoqj2fg6fid567c6u?si=52f064ab1bac46d7" target="blank"><img src="https://github.com/agfanpratama/agfanpratama/blob/main/icons/spotify.svg" target="blank" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31filxk3gdogoqj2fg6fid567c6u?si=52f064ab1bac46d7" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" target="blank" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agfanpratama&show_icons=true&locale=en" alt="agfanpratama" /></p>
