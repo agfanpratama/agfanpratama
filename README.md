@@ -26,6 +26,6 @@ So, here I am:
     <a href="https://www.instagram.com/agfanhendarsin" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
     </a>
-    <a href="bit.ly/spotify-agfannn" target="_blank">
+    <a href="https://open.spotify.com/user/31filxk3gdogoqj2fg6fid567c6u?si=52f064ab1bac46d7" target="_blank">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" />
     </a>
