@@ -15,3 +15,7 @@ So, here I am:
 - 😄 My Pronouns is **he/him**
 - ⚡ Fun fact: I like to watch movie while im eating
 --> Uh, thats it :D
+
+<div align="center">
+    <a href="valorant">
+        <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" target="_blank" />
