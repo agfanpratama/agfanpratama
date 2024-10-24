@@ -2,7 +2,8 @@
     <img src ="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Agfan+Herru+Pratama!;" />
 </h1>
 
-Thanks for comin' to My Profile! but there's nothing to see here :D
+<h3 align="center">Thanks for comin' to My Profile! but there's nothing to see here :D</h3>
+
 OK, why don't we know each other?
 
 So, here I am:
