@@ -34,7 +34,6 @@ So, here I am:
     <br>
     <img alt="snake eating my contributions" src="https://github.com/agfanpratama/agfanpratama/blob/main/icons/github-contribution-grid-snake.svg" />
 
-    <br/><br/><br/>
 </div>
 
 <hr/>
