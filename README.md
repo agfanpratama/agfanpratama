@@ -32,10 +32,10 @@ So, here I am:
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=agfanpratama&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github&border_radius=10" alt="agfanpratama's GitHub Stats" /></p>
-<p><img align="right" src="https://streak-stats.demolab.com?user=agfanpratama&theme=react&hide_border=true&border_radius=10&locale=su" alt="GitHub Streak" /></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=agfanpratama&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github&border_radius=10" alt="agfanpratama's GitHub Stats" /></p>
+    <img src="https://streak-stats.demolab.com?user=agfanpratama&theme=react&hide_border=true&border_radius=10&locale=su" alt="GitHub Streak" />
 <br/>
-<p></p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agfanpratama&hide=HTML&langs_count=8&theme=react&show_icons=true&hide_border=true&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="agfanpratama's GitHub Stats" /></p>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agfanpratama&hide=HTML&langs_count=8&theme=react&show_icons=true&hide_border=true&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="agfanpratama's GitHub Stats" />
 </div>
 
 <br/><br/>
