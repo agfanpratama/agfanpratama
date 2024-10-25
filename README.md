@@ -36,7 +36,7 @@ So, here I am:
     <img src="https://github-readme-stats.vercel.app/api?username=agfanpratama&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github&border_radius=10" alt="agfanpratama's GitHub Stats" /></p>
     <img src="https://streak-stats.demolab.com?user=agfanpratama&theme=react&hide_border=true&border_radius=10&locale=su" alt="GitHub Streak" />
 <br/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agfanpratama&show_icons=true&locale=en&layout=compact" alt="agfanpratama" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agfanpratama&show_icons=true&locale=en&layout=compact" alt="agfanpratama" />
 </div>
 
 <br/><br/>
