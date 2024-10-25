@@ -27,15 +27,14 @@ So, here I am:
 <a href="https://open.spotify.com/user/31filxk3gdogoqj2fg6fid567c6u?si=52f064ab1bac46d7" target="blank"><img align="center" src="https://github.com/agfanpratama/agfanpratama/blob/main/icons/icons/spotify-icon.svg" target="blank" height="30" width="30" /></a>
 </p>
 
+<h2 align="center">⚡ My Stats ⚡</h2>
+<br>
+<div align=center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agfanpratama&show_icons=true&locale=en" alt="agfanpratama" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agfanpratama&" alt="agfanpratama" /></p>
-
-<div align="center">
-    <h2>My Contributions</h2>
-    <br>
-    <img alt="snake eating my contributions" src="https://github.com/agfanpratama/agfanpratama/blob/main/icons/github-contribution-grid-snake.svg" />
-
 </div>
+
+<br/><br/>
 
 <hr/>
