@@ -27,6 +27,8 @@ So, here I am:
 <a href="https://open.spotify.com/user/31filxk3gdogoqj2fg6fid567c6u?si=52f064ab1bac46d7" target="blank"><img align="center" src="https://github.com/agfanpratama/agfanpratama/blob/main/icons/icons/spotify-icon.svg" target="blank" height="30" width="30" /></a>
 </p>
 
+<hr/>
+
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
@@ -39,3 +41,5 @@ So, here I am:
 <br/><br/>
 
 <hr/>
+
+<br/>
