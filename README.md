@@ -31,6 +31,8 @@ So, here I am:
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agfanpratama&theme=github-dark-blue&border_radius=2&locale=su" alt="GitHub Streak" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agfanpratama&layout=compact)
+
 </div>
 
 <br/><br/>
