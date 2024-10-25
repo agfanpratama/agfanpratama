@@ -31,7 +31,8 @@ So, here I am:
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agfanpratama&theme=github-dark-blue&border_radius=2&locale=su" alt="GitHub Streak" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agfanpratama&theme=react&show_icons=true&hide_border=true&layout=compact" alt="agfanpratama's GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agfanpratama&theme=react&show_icons=true&hide_border=true&layout=compact" alt="agfanpratama's GitHub Stats" />
 
 </div>
 
