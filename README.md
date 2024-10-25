@@ -40,12 +40,12 @@ So, here I am:
 <!-- Light Mode -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agfanpratama&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="agfanpratama" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agfanpratama&langs_count=12&hide_border=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="agfanpratama" />
 
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=agfanpratama&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=agfanpratama&langs_count=12&hide_border=true&locale=en&layout=compact&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
 </div>
 
 <br/><br/>
