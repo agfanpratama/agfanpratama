@@ -32,7 +32,7 @@ So, here I am:
 
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=agfanpratama&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github&border_radius=10" alt="agfanpratama's GitHub Stats" /></p>
     <img src="https://streak-stats.demolab.com?user=agfanpratama&theme=react&hide_border=true&border_radius=10&locale=su" alt="GitHub Streak" />
 <br/>
