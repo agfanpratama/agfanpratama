@@ -1,3 +1,4 @@
+[![Github](https://img.shields.io/github/followers/agfanpratama?label=Follow&style=social)](https://github.com/agfanpratama)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agfanpratama.agfanpratama" />
 
 <h1 align="center">
