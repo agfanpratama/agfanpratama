@@ -23,7 +23,7 @@ So, here I am:
 <p align="left">
 <a href="https://linkedin.com/in/agfanherrupratama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agfanherrupratama" height="30" width="40" /></a>
 <a href="https://instagram.com/agfanhendarsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agfanhendarsin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/agfanhph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agfanhph" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@agfanhph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agfanhph" height="30" width="40" /></a>
 <a href="https://discord.gg/875749002719662121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="875749002719662121" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31filxk3gdogoqj2fg6fid567c6u?si=52f064ab1bac46d7" target="blank"><img align="center" src="https://github.com/agfanpratama/agfanpratama/blob/main/icons/icons/spotify-icon.svg" target="blank" height="30" width="30" /></a>
 </p>
